@@ -48,7 +48,14 @@ The repository includes the following Fortran programs and modules:
 
 ## 🚀 Compilation and Execution
 
-### Basic Compilation
+### Basic Compilation💢
 ```bash
 gfortran -o program_name program_name.f90
 ./program_name
+
+## 📝 Author
+
+**Shahad Uddin**  
+🔗 **GitHub**: [shahad-99](https://github.com/shahad-99)    
+🏫 **Course**: MAT316 FORTRAN PROGRAMMING LAB
+✔ **Reg No**: 2021133063
