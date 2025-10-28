@@ -8,7 +8,7 @@ The repository includes the following Fortran programs and modules:
 
 ### 🔗 Linked List Programs
 - **`Ex-15-1.f95`** - Implementation of a linked list data structure for storing real values
-- **`insertion_sort.f90`** - Insertion sort algorithm using linked lists for integer values
+- **`insertion_sort.f95`** - Insertion sort algorithm using linked lists for integer values
 
 ### 📊 Array Operations
 - **`Ex-15-2.f95`** - Subroutine to extract diagonal elements from 2D arrays with comprehensive error handling
