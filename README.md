@@ -1,6 +1,6 @@
-# Fortran Laboratory Assignments
+# Fortran Programming Lab Assignments
 
-This repository contains a collection of Fortran programs and subroutines developed as part of a computational methods laboratory course. The code demonstrates various numerical algorithms and data structures implemented in Fortran.
+This repository contains a collection of Fortran programs and subroutines developed as part of a Fortran Programming Lab course. The code demonstrates various numerical algorithms and data structures implemented in Fortran.
 
 ## 📁 Repository Structure
 
