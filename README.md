@@ -51,9 +51,9 @@ The repository includes the following Fortran programs and modules:
 ### Basic Compilation💢
 ```bash
 gfortran -o program_name program_name.f90
-./program_name
+./program_name```
 
-## 📝 Author
+### 📝 Author
 
 **Shahad Uddin**  
 🔗 **GitHub**: [shahad-99](https://github.com/shahad-99)    
