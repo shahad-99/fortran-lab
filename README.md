@@ -57,5 +57,28 @@ The repository includes the following Fortran programs and modules:
 
 ### Basic Compilation💢
 ```bash
-gfortran -o program_name program_name.f90
+gfortran -o program_name program_name.f95
 ./program_name
+
+# Compile and run linked list program
+gfortran -o Ex-15-1 Ex-15-1.f95
+./Ex-15-1
+
+# Compile and run diagonal extraction program
+gfortran -o Ex-15-2 Ex-15-2.f95
+./Ex-15-2
+
+# Compile and run customer database program
+gfortran -o Ex-15-3 Ex-15-3.f95
+./Ex-15-3
+
+# Compile and run binary tree program
+gfortran -o Ex-15-4 Ex-15-4.f95
+./Ex-15-4
+
+# Compile and run linear equation solvers
+gfortran -o Ex9-1 Ex9-1.f95
+./Ex9-1
+
+gfortran -o Ex-11-2 Ex-11-2.f95
+./Ex-11-2
