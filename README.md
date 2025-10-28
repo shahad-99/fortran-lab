@@ -8,11 +8,11 @@ The repository includes the following Fortran programs and modules:
 
 ### 🔗 Linked List Programs
 - **`Ex-15-1.f95`** - Implementation of a linked list data structure for storing real values
-- **`insertion_sort.f95`** - Insertion sort algorithm using linked lists for integer values
+- **`Ex-15-2.f95`** - Insertion sort algorithm using linked lists for integer values
 
 ### 📊 Array Operations
-- **`Ex-15-2.f95`** - Subroutine to extract diagonal elements from 2D arrays with comprehensive error handling
-- **`Ex-15-3.f95`** - Customer database management system with multiple sorting options (by last name, city, or zip code)
+- **`Ex-15-3.f95`** - Subroutine to extract diagonal elements from 2D arrays with comprehensive error handling
+- **`Ex-12-1.f95`** - Customer database management system with multiple sorting options (by last name, city, or zip code)
 
 ### 🌳 Binary Tree Implementation
 - **`Ex-15-4.f95`** - Binary tree data structure for storing and retrieving personal information (names, phone numbers) with alphabetical sorting
