@@ -6,6 +6,10 @@ This repository contains a collection of Fortran programs and subroutines develo
 
 The repository includes the following Fortran programs and modules:
 
+### 🧮 Linear Equation Solvers
+- **`Ex9-1.f95`** - Gaussian elimination with maximum pivot technique for solving linear equations
+- **`Ex-11-2.f95`** - Enhanced version with double precision arithmetic and automatic arrays to minimize roundoff errors
+
 ### 🔗 Linked List Programs
 - **`Ex-15-1.f95`** - Implementation of a linked list data structure for storing real values
 - **`Ex-15-2.f95`** - Insertion sort algorithm using linked lists for integer values
@@ -16,10 +20,6 @@ The repository includes the following Fortran programs and modules:
 
 ### 🌳 Binary Tree Implementation
 - **`Ex-15-4.f95`** - Binary tree data structure for storing and retrieving personal information (names, phone numbers) with alphabetical sorting
-
-### 🧮 Linear Equation Solvers
-- **`Ex9-1.f95`** - Gaussian elimination with maximum pivot technique for solving linear equations
-- **`Ex-11-2.f95`** - Enhanced version with double precision arithmetic and automatic arrays to minimize roundoff errors
 
 ## 🛠️ Features
 
@@ -60,25 +60,29 @@ The repository includes the following Fortran programs and modules:
 gfortran -o program_name program_name.f95
 ./program_name
 
-# Compile and run linked list program
-gfortran -o Ex-15-1 Ex-15-1.f95
-./Ex-15-1
-
-# Compile and run diagonal extraction program
-gfortran -o Ex-15-2 Ex-15-2.f95
-./Ex-15-2
-
-# Compile and run customer database program
-gfortran -o Ex-15-3 Ex-15-3.f95
-./Ex-15-3
-
-# Compile and run binary tree program
-gfortran -o Ex-15-4 Ex-15-4.f95
-./Ex-15-4
-
 # Compile and run linear equation solvers
 gfortran -o Ex9-1 Ex9-1.f95
 ./Ex9-1
 
 gfortran -o Ex-11-2 Ex-11-2.f95
 ./Ex-11-2
+
+# Compile and run customer database program
+gfortran -o Ex-12-1 Ex-12-1.f95
+./Ex-12-1
+
+# Compile and run linked list program
+gfortran -o Ex-15-1 Ex-15-1.f95
+./Ex-15-1
+
+# Compile and run Insertion sort algorithm
+gfortran -o Ex-15-2 Ex-15-2.f95
+./Ex-15-2
+
+# Compile and run diagonal extraction program
+gfortran -o Ex-15-3 Ex-15-3.f95
+./Ex-15-3
+
+# Compile and run binary tree program
+gfortran -o Ex-15-4 Ex-15-4.f95
+./Ex-15-4
