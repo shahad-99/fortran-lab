@@ -46,16 +46,16 @@ The repository includes the following Fortran programs and modules:
 - Basic understanding of Fortran programming
 - Input data files for programs that require external data
 
+## 📝 Author
+
+**Shahad Uddin**  
+- 🔗 **GitHub**: [shahad-99](https://github.com/shahad-99)    
+- 🏫 **Course**: MAT316 FORTRAN PROGRAMMING LAB
+- ✔ **Reg No**: 2021133063
+
 ## 🚀 Compilation and Execution
 
 ### Basic Compilation💢
 ```bash
 gfortran -o program_name program_name.f90
-./program_name```
-
-### 📝 Author
-
-**Shahad Uddin**  
-🔗 **GitHub**: [shahad-99](https://github.com/shahad-99)    
-🏫 **Course**: MAT316 FORTRAN PROGRAMMING LAB
-✔ **Reg No**: 2021133063
+./program_name
